@@ -1,0 +1,6 @@
+dog
+cat
+birds
+Lion
+Bear
+Turtle
